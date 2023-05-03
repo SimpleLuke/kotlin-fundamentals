@@ -35,6 +35,7 @@ fun main(args: Array<String>) {
         if (name != null) {
             println(name.length)
         }
+        println(name?.uppercase())
     }
 
     //The following code doesn't work - why? How would you fix it?
