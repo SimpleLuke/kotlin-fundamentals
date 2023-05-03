@@ -37,6 +37,17 @@ fun main(args: Array<String>) {
         }
     }
 
+    //The following code doesn't work - why? How would you fix it?
+    //val number = "3" as Number
+
+    //Convert "3" from String to Int
+    val number = "3".toInt()
+    println(number)
+
+    //This might require a bit of research from you. How to fix the following code so we can create a list of both strings and numbers?
+    //val listOfThings: List<Int> = listOf(3, "Hello", 4)
+    val listOfThings: List<Any> = listOf(3, "Hello", 4)
+    println(listOfThings)
 
 
 
