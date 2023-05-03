@@ -6,8 +6,8 @@ As I volunteer to help testing the new Kotlin curriculum at Makers Academy. This
 
 ### Phase One: Kotlin bites
 
-1. [Your first Kotlin program](kotlin_bites/01_first_program.md)
-2. [Types](kotlin_bites/02_types.md)
+1. [Your first Kotlin program](https://github.com/SimpleLuke/kotlin-fundamentals/tree/main/Your-first-Kotlin-program/hello)
+2. [Types](https://github.com/SimpleLuke/kotlin-fundamentals/tree/main/Types/types)
 3. [Functions](kotlin_bites/03_functions.md)
 4. [Control flow](kotlin_bites/04_control_flow.md)
 5. [Data structures](kotlin_bites/05_data_structures.md)
