@@ -43,6 +43,8 @@ fun main(args: Array<String>) {
 
     //Convert "3" from String to Int
     val number = "3".toInt()
+    // Or we can do
+    // val number = "3" as? Number => this will return null
     println(number)
 
     //This might require a bit of research from you. How to fix the following code so we can create a list of both strings and numbers?
